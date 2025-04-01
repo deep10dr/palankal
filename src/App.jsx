@@ -41,7 +41,7 @@ function NutritionSearch() {
 
   return (
     <div className="bg-dark text-white d-flex flex-column align-items-center container-fluid vh-100">
-      {/* Search Bar */}
+      {/* Search Bar to Search */}
       <div className="w-100 p-2 d-flex justify-content-center align-items-center gap-2 mt-3">
         <input 
           type="text" 

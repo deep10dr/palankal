@@ -1,0 +1,13 @@
+.btn{
+  width: 60px !important;
+  height: 38px !important;
+}
+.b{
+  border: 2px solid white;
+}
+.input-class{
+  width: 70% !important;
+}
+.result{
+  height: max-content !important;
+}
